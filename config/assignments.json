@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "max_groups": 27,
+  "members_per_group": 5,
+  "max_groups_per_faculty": 4,
+  "groups": {
+    "01": {
+      "faculty": null
+    },
+    "02": {
+      "faculty": null
+    },
+    "03": {
+      "faculty": null
+    },
+    "04": {
+      "faculty": null
+    },
+    "05": {
+      "faculty": null
+    },
+    "06": {
+      "faculty": null
+    },
+    "07": {
+      "faculty": null
+    },
+    "08": {
+      "faculty": null
+    },
+    "09": {
+      "faculty": null
+    },
+    "10": {
+      "faculty": null
+    },
+    "11": {
+      "faculty": null
+    },
+    "12": {
+      "faculty": null
+    },
+    "13": {
+      "faculty": null
+    },
+    "14": {
+      "faculty": null
+    },
+    "15": {
+      "faculty": null
+    },
+    "16": {
+      "faculty": null
+    },
+    "17": {
+      "faculty": null
+    },
+    "18": {
+      "faculty": null
+    },
+    "19": {
+      "faculty": null
+    },
+    "20": {
+      "faculty": null
+    },
+    "21": {
+      "faculty": null
+    },
+    "22": {
+      "faculty": null
+    },
+    "23": {
+      "faculty": null
+    },
+    "24": {
+      "faculty": null
+    },
+    "25": {
+      "faculty": null
+    },
+    "26": {
+      "faculty": null
+    },
+    "27": {
+      "faculty": null
+    }
+  }
+}

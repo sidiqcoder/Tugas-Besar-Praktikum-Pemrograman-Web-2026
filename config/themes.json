@@ -1,0 +1,34 @@
+{
+  "FEB": {
+    "name": "Fakultas Ekonomi dan Bisnis",
+    "examples": ["Marketplace UMKM", "Sistem koperasi", "Manajemen keuangan", "Investasi edukatif", "Katalog bisnis"]
+  },
+  "FH": {
+    "name": "Fakultas Hukum",
+    "examples": ["Konsultasi hukum", "Informasi peraturan", "Pengaduan hukum", "Database kasus", "Edukasi hukum"]
+  },
+  "FP": {
+    "name": "Fakultas Pertanian",
+    "examples": ["Marketplace hasil pertanian", "Manajemen kebun", "Informasi tanaman", "Agribisnis", "Peternakan"]
+  },
+  "FKIP": {
+    "name": "Fakultas Keguruan dan Ilmu Pendidikan",
+    "examples": ["E-learning", "Bank soal", "Kursus", "Media pembelajaran", "Manajemen sekolah"]
+  },
+  "FT": {
+    "name": "Fakultas Teknik",
+    "examples": ["Manajemen proyek", "Konstruksi", "Desain bangunan", "Inventaris alat", "Layanan teknik"]
+  },
+  "FISIP": {
+    "name": "Fakultas Ilmu Sosial dan Ilmu Politik",
+    "examples": ["Portal berita", "Layanan masyarakat", "Survei sosial", "Organisasi", "Informasi pemerintahan"]
+  },
+  "FMIPA": {
+    "name": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+    "examples": ["Database penelitian", "Laboratorium", "Katalog data", "Simulasi pembelajaran", "Informasi sains"]
+  },
+  "FK": {
+    "name": "Fakultas Kedokteran",
+    "examples": ["Informasi kesehatan", "Klinik", "Farmasi", "Edukasi kesehatan", "Jadwal layanan"]
+  }
+}

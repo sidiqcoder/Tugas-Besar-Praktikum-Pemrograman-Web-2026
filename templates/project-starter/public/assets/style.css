@@ -1,0 +1,6 @@
+:root { color-scheme: light; font-family: system-ui, sans-serif; background: #f2f5fa; color: #17233a; }
+body { margin: 0; min-height: 100vh; display: grid; place-items: center; padding: 1.25rem; }
+.card { box-sizing: border-box; background: white; max-width: 680px; width: 100%; padding: 3rem; border-radius: 20px; box-shadow: 0 18px 45px #16203a13; }
+h1 { margin-top: 0; font-size: clamp(1.6rem, 4vw, 2.5rem); }
+a { color: #0e776f; }
+.eyebrow { color: #0e776f; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: .75rem; }

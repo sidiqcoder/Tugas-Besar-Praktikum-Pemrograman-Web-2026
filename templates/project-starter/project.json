@@ -1,0 +1,12 @@
+{
+  "group": 0,
+  "faculty": "GANTI_DENGAN_KODE_FAKULTAS",
+  "title": "GANTI DENGAN JUDUL APLIKASI",
+  "members": [
+    {"name": "Anggota 1", "github": "username1"},
+    {"name": "Anggota 2", "github": "username2"},
+    {"name": "Anggota 3", "github": "username3"},
+    {"name": "Anggota 4", "github": "username4"},
+    {"name": "Anggota 5", "github": "username5"}
+  ]
+}
